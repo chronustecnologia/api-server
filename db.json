@@ -2,7 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "helloxxxxxx"
+      "title": "helloxxxxxx",
+      "valor": 100
+    },
+    {
+      "id": 2,
+      "title": "helloyyyyyy",
+      "valor": 200
+    },
+    {
+      "id": 3,
+      "title": "hellozzz",
+      "valor": 300
     }
   ],
   "profile": {
